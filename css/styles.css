@@ -76,7 +76,7 @@ body {
   padding-top: 52px;
   padding-bottom: 52px;
 }
-.delivery-title {
+.section-title {
   margin-bottom: 20px;
   font-size: 40px;
   font-weight: 600;
@@ -105,4 +105,18 @@ body {
   font-size: 28px;
   font-weight: 600;
   text-align: center;
+}
+.dungeon {
+  background-color: #da9a03;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.contacts-location-arsonist {
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.dungeon-li {
+  font-size: 28px;
+  font-weight: 400;
 }
